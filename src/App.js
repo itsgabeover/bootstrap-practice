@@ -16,8 +16,8 @@ function App() {
                   alt="Rosy Maple Moth"
                 />
           <Carousel.Caption>
-            <h3>Rosy Maple Moth</h3>
-            <p class="d-block p-2 bg-dark text-white fs-6 text">10/10 super cute looks like a peep</p>
+            <h3 class="d-block p-2 bg-dark text-white">Rosy Maple Moth</h3>
+            <p class="d-block p-2 bg-dark text-white fs-6 text">10/10 super cute looks like a Peep candy</p>
           </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
@@ -27,7 +27,7 @@ function App() {
               alt="Poodle Moth"
             />
           <Carousel.Caption>
-            <h3>Poodle Moth</h3>
+            <h3 class="d-block p-2 bg-dark text-white">Poodle Moth</h3>
             <p class="d-block p-2 bg-dark text-white fs-6 text">7/10 cute name and fuzzy white coat, but has the eyes of satan</p>
           </Carousel.Caption>
           </Carousel.Item>
@@ -39,7 +39,7 @@ function App() {
             />
 
             <Carousel.Caption>
-              <h3>Garden Tiger Moth</h3>
+              <h3 class="d-block p-2 bg-dark text-white">Garden Tiger Moth</h3>
               <p class="d-block p-2 bg-dark text-white fs-6 text">8/10 would be cuter if they named it the cow moth</p>
             </Carousel.Caption>
           </Carousel.Item>
